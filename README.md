@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avishek04&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avishek04&exclude_repo=MSD-CS6015,MSD-CS6013,MSD-CS6010,Programming-in-C-Basics,Programming-in-C-Algorithms,Programming-in-C-Arrays,Spell-Check-Programme-Using-HashTable-in-C,Recover-Images-from-Raw-file-in-C-Memory-Management-Problem,ImageFilter-Console-App-Using-C&layout=compact)
