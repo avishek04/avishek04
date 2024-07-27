@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avishek04&repo=DNS-Resolver)](https://github.com/avishek04/DNS-Resolver)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avishek04&layout=compact)
